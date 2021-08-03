@@ -1,6 +1,6 @@
 # your-life-in-week
 
-#install dependencies 
+## install dependencies 
 
 Altair can be installed, along with the example datastes in vega_datasets, using:
 
