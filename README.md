@@ -2,7 +2,7 @@
 
 ## install dependencies 
 
-Altair can be installed, along with the example datastes in vega_datasets, using:
+#### Altair can be installed, along with the example datastes in vega_datasets, using:
 
 $ pip install altair vega_datasets
 If you are using the conda package manager, the equivalent is:
